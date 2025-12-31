@@ -1,4 +1,4 @@
-# nextjs-aidd-template
+# nextjs-tailwind-aidd-template
 
 > **AI-Driven Development (AIDD) Template** for **Next.js (App Router) + TypeScript + TailwindCSS**.
 
